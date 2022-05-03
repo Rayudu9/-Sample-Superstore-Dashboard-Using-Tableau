@@ -1,3 +1,4 @@
 # -Sample-Superstore-Dashboard-Using-Tableau
 Generated advanced strategy Tableau dashboards with quick/context/global filters, parameters,KPI, Level of Detail Function and calculated fields using the Sample Superstore Dataset for better analysis.  The audience can access:Top-level revenue, profit for Current year,YoY performance by customer segment,View sub-category performance by the active metric,Best &amp; worst performing sub-categories within each customer segment for the choosen metric and Shows top N and bottom N where N is a parameter and can be changed by the user.
 [Tableau Project](https://public.tableau.com/app/profile/rayudu4438/viz/RayuduTableauProject-Finaldraft/SampleSuperstoreDashboard)
+[Tableau Project1](https://public.tableau.com/views/RayuduTableauProject-Finaldraft/SampleSuperstoreDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
